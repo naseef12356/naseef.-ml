@@ -1,4 +1,4 @@
-vikramtiwari.github.io
+jithumon.in
 ======================
 
 Github repo for Vikram Tiwari's Website
