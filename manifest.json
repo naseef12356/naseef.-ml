@@ -1,6 +1,6 @@
 {
-  "name": "Vikram Tiwari",
-  "short_name": "Vikram",
+  "name": "Muhammad Naseef M",
+  "short_name": "Naseef",
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
   "display": "fullscreen",
@@ -9,12 +9,12 @@
   "start_url": "/",
   "icons": [
     {
-      "src": "assets/icons/icon-72x72.png",
+      "src": "https://1.bp.blogspot.com/-PAI8ADPFOJs/YFTnLifNKtI/AAAAAAAAAA4/52S6ShxjuFIEE8kDp5xplTPHfin3iFLeACLcBGAsYHQ/s320/Naseef.png",
       "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "assets/icons/icon-96x96.png",
+      "src": "https://1.bp.blogspot.com/-PAI8ADPFOJs/YFTnLifNKtI/AAAAAAAAAA4/52S6ShxjuFIEE8kDp5xplTPHfin3iFLeACLcBGAsYHQ/s320/Naseef.png",
       "sizes": "96x96",
       "type": "image/png"
     },
